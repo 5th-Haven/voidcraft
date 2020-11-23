@@ -1,0 +1,4 @@
+name: Voidcraft
+version: ${project.version}
+main: theogreen.voidcraft.Voidcraft
+api-version: 1.16
